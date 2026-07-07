@@ -1,4 +1,4 @@
-🏥 Hospital Emergency Room Dashboard (Excel)
+🏥 # Hospital Emergency Room Dashboard (Excel)
 
 An end-to-end Hospital Emergency Room Analysis Dashboard built entirely in Microsoft Excel — starting from raw, messy patient data and ending in a fully interactive, slicer-driven monthly/yearly reporting dashboard.
 
