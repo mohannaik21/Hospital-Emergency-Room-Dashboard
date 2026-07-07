@@ -1,4 +1,4 @@
-# Hospital Emergency Room Dashboard (Excel)
+## Hospital Emergency Room Dashboard (Excel)
 An end-to-end Hospital Emergency Room Analysis Dashboard built entirely in Microsoft Excel — starting from raw, messy patient data and ending in a fully interactive, slicer-driven monthly/yearly reporting dashboard.
 
 # About This Project
@@ -57,10 +57,10 @@ Nested IF formulas — for age grouping and timeliness status
 Data bars / conditional formatting — used in the "Status in %" admission visualization
 
 # Repository Structure
-├── Hospital_Emergency_Dashboard.xlsm      # Main Excel file (Pivot Tables + Dashboard)
-├── Hospital_Emergency_Room_Data.csv       # Raw source dataset
-├── Hospital_Dashboard_Final.jpg           # Dashboard preview image
-├── Project_Steps.pptx                     # Project documentation/walkthrough slides
+├── Hospital_Emergency_Dashboard.xlsm      
+├── Hospital_Emergency_Room_Data.csv       
+├── Hospital_Dashboard_Final.jpg           
+├── Project_Steps.pptx                     
 └── README.md
 
 # Dataset Description
